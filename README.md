@@ -1,7 +1,7 @@
 Mini Mike's Metro Minis
 =======================
 
-_Note_: this is a fork optimized for my own Unity3d lessons.
+_Note_: this is a fork optimized for my own Unity3d lessons (removed unused elements, removed NSFW models, cleaned up colliders).
 
 A city-themed collection of over 400 blocky models you can remix or use outright in your 
 own works.  Files are provided in .vox, .collada and Unity3D .prefab formats.
@@ -25,27 +25,6 @@ Stuff included
 * City stuff: fences, sidewalks, trash cans, newspaper stands, curbs, fountains, bus stops, signs and more
 * Scenario stuff: aliens, spaceships, killbots, zombies, creeping tentacles, and costumed crusaders
 * Environmental: grass, concrete, trees, bushes
-
-Directory structure
--------------------
-
-* /vox -- the original models in .vox format
-* /fbx -- generic optimized poly models for game frameworks
-* /collada -- generic optimized poly models for game frameworks
-* /unity-plugin -- unity prefabs w/colliders
-* /screenshots -- screenshots
-
-Frequently Asked Questions
---------------------------
-
-Q: What software did you use to make these? How can I tweak them?
-
-A: I use MagicaVoxel for creating the initial files / rendering, and VoxelShop for exporting 
-optimized collada polys.
-
-Q: Are these characters rigged?
-
-A: Nope. I don't really understand how to fit that into my process. I recommend making them waddle or sticking a popsicle stick up their butt and dragging them around.
 
 Licensing
 ---------------------
