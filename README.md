@@ -1,7 +1,7 @@
 Mini Mike's Metro Minis
 =======================
 
-_Note_: this is a fork optimized for my own Unity3d lessons (removed unused elements, removed NSFW models, cleaned up colliders).
+_Note from The Bit Cave_: this is a fork optimized for my own Unity3d lessons (removed unused elements, removed NSFW models, cleaned up colliders).
 
 A city-themed collection of over 400 blocky models you can remix or use outright in your 
 own works.  Files are provided in .vox, .collada and Unity3D .prefab formats.
